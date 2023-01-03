@@ -1,0 +1,9 @@
+[submodule "components/esp-aws-iot"]
+	path = components/esp-aws-iot
+	url = https://github.com/espressif/esp-aws-iot.git
+[submodule "components/esp-cryptoauthlib/cryptoauthlib"]
+	path = components/esp-cryptoauthlib/cryptoauthlib
+	url = https://github.com/MicrochipTech/cryptoauthlib.git
+[submodule "components/FreeRTOS-Libraries-Integration-Tests/FreeRTOS-Libraries-Integration-Tests"]
+	path = components/FreeRTOS-Libraries-Integration-Tests/FreeRTOS-Libraries-Integration-Tests
+	url = https://github.com/FreeRTOS/FreeRTOS-Libraries-Integration-Tests.git
